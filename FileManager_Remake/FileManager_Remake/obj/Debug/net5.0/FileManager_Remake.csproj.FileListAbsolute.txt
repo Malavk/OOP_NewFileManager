@@ -1,0 +1,16 @@
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\bin\Debug\net5.0\FileManager_Remake.exe
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\bin\Debug\net5.0\FileManager_Remake.deps.json
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\bin\Debug\net5.0\FileManager_Remake.runtimeconfig.json
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\bin\Debug\net5.0\FileManager_Remake.runtimeconfig.dev.json
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\bin\Debug\net5.0\FileManager_Remake.dll
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\bin\Debug\net5.0\FileManager_Remake.pdb
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\FileManager_Remake.csproj.AssemblyReference.cache
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\FileManager_Remake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\FileManager_Remake.AssemblyInfoInputs.cache
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\FileManager_Remake.AssemblyInfo.cs
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\FileManager_Remake.csproj.CoreCompileInputs.cache
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\FileManager_Remake.dll
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\refint\FileManager_Remake.dll
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\FileManager_Remake.pdb
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\FileManager_Remake.genruntimeconfig.cache
+C:\Users\ermos\Desktop\OOP_FileManager_Remake\FileManager_Remake\FileManager_Remake\obj\Debug\net5.0\ref\FileManager_Remake.dll
